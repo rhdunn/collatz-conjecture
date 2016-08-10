@@ -1,0 +1,9 @@
+.*.swp
+
+*.dvi
+*.ps
+*.pdf
+
+*.aux
+*.log
+*.out
